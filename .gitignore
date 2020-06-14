@@ -1,0 +1,8 @@
+__pycache__
+.idea
+.DS_Store
+/dataset/*
+/log/*
+/input_for_SVT/*
+*.pyc
+*.so
